@@ -9,6 +9,6 @@
 4. https://www.programiz.com/kotlin-programming/input-output
 5. https://kotlinlang.org/docs/home.html
 
-:no_entry_sign:  Além, é claro, do fórum do próprio bootcamp. *-*
+:no_entry_sign:  Além, é claro, do fórum do próprio bootcamp.
 
 Observação: ainda por falta de conhecimento, não consegui inserir a função de "saída" quando o usuário seleciona a opção "5 - Sair" no menu interativo. Quero estudar uma possibilidade do usuário receber a mensagem de "Até logo!" ao selecionar essa opção, sem ter que visualizar os demais questionamentos (digite o 1º e 2º número, etc.).
